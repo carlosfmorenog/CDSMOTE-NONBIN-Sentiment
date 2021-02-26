@@ -2,7 +2,7 @@
 
 Please reference this method as follows:
 
-Elyan E, Moreno-García CF, Jayne C. CDSMOTE: class decomposition and synthetic minority class oversampling technique for imbalanced-data classification. Neural Comput Appl [Internet]. 2020; Available from: https://doi.org/10.1007/s00521-020-05130-z
+* Elyan E, Moreno-García CF, Jayne C. CDSMOTE: class decomposition and synthetic minority class oversampling technique for imbalanced-data classification. Neural Comput Appl [Internet]. 2020; Available from: https://doi.org/10.1007/s00521-020-05130-z
 
 or use the BibTex entry below:
 
