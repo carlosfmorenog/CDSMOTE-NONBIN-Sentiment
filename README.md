@@ -1,5 +1,11 @@
 # Class-Decomposition and Augmentation for Imbalanced Data Sentiment Analysis
 
+See `demo.ipynb` for a jupyter notebook demo on how to use this method.
+
+The dataset was obtained from:
+
+* https://data.world/crowdflower/sentiment-of-climate-change
+
 Please reference this method as follows:
 
 * Elyan E, Moreno-García CF, Jayne C. CDSMOTE: class decomposition and synthetic minority class oversampling technique for imbalanced-data classification. Neural Comput Appl [Internet]. 2020; Available from: https://doi.org/10.1007/s00521-020-05130-z
