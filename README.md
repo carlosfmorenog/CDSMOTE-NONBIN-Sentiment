@@ -8,4 +8,4 @@ The data was obtained from:
 
 Please reference this method as follows:
 
-* Moreno-García, C.F., Elyan, E. & Jayne, C.,  Class-Decomposition and Augmentation for Imbalanced Data Sentiment Analysis. IJCNN 2021 (Accepted)
+* Moreno-García, C.F., Jayne, C. & Elyan, E.,  Class-Decomposition and Augmentation for Imbalanced Data Sentiment Analysis. IJCNN 2021 (Accepted)
