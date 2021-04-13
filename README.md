@@ -2,7 +2,7 @@
 
 See `demo.ipynb` for a jupyter notebook demo on how to use this method.
 
-The dataset was obtained from:
+The data was obtained from:
 
 * https://data.world/crowdflower/sentiment-of-climate-change
 
