@@ -96,7 +96,7 @@ def FCmeansOptimised(data, target, max_nclusters = 10):
     return target_clust
 
 
-def DBSCAN(data, target, eps=0.5, min_samples=5):
+def DBSCAN(data, target, eps=0.5, min_samples=5, metric='euclidean'):
     print('\nClass decomposition by applying DBSCAN...')
     from sklearn.cluster import DBSCAN
     target_clust = ['']*len(target)
