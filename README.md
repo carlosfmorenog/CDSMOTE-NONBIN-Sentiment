@@ -8,7 +8,7 @@ The data was obtained from:
 
 Please reference this method as follows:
 
-* C. F. Moreno-García, C. Jayne and E. Elyan, "Class-Decomposition and Augmentation for Imbalanced Data Sentiment Analysis," 2021 International Joint Conference on Neural Networks (IJCNN), 2021, pp. 1-7, doi: https://10.1109/IJCNN52387.2021.9533603.
+* C. F. Moreno-García, C. Jayne and E. Elyan, "Class-Decomposition and Augmentation for Imbalanced Data Sentiment Analysis," 2021 International Joint Conference on Neural Networks (IJCNN), 2021, pp. 1-7, doi: [https://10.1109/IJCNN52387.2021.9533603](https://doi.org/10.1109/IJCNN52387.2021.9533603).
 
 OR USE THE BIBTEX:
 
